@@ -1,0 +1,17 @@
+{
+	"teamHeroes": "League Justice",
+	"members": [
+		{
+			"name": "Batman",
+			"poder": "Inteligencia"
+		},
+		{
+			"name": "Superman",
+			"poder": "Fuerza"
+		},
+		{
+			"name": "Mujer Maravilla",
+			"poder": "Mata Dioses"
+		}
+	]
+}
